@@ -106,3 +106,11 @@ Vishwapriya M
 
 
 
+venv/
+
+\_\_pycache\_\_/
+
+\*.pyc
+
+
+
